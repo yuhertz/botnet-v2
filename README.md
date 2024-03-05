@@ -1,6 +1,4 @@
-# botnet-v2
-
-# Botnet DDoS Version 1
+# Botnet DDoS Version 2
 
 Set up for Termux
 ```
